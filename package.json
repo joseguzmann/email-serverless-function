@@ -1,0 +1,11 @@
+{
+    "name": "serverless-function",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node api/sendEmail.js"
+    },
+    "dependencies": {
+      "nodemailer": "^6.4.10"
+    }
+  }
+  
